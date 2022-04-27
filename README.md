@@ -138,7 +138,7 @@ Image: ![](https://user-images.githubusercontent.com/2707039/163702084-97fb4a03-
 
 -  Milk
 
--   ["The Lancet" ](https://www.sohu.com/a/253940257_419768)[surveyed ](https://www.sohu.com/a/253940257_419768)[130,000 ](https://www.sohu.com/a/253940257_419768)[people in ](https://www.sohu.com/a/253940257_419768)[21 ](https://www.sohu.com/a/253940257_419768)[countries : ](https://www.sohu.com/a/253940257_419768)[1 ](https://www.sohu.com/a/253940257_419768)[catty of milk or yogurt a day reduces the ](https://www.sohu.com/a/253940257_419768)[risk of cardiovascular death by ](https://www.sohu.com/a/253940257_419768)[23%](https://www.sohu.com/a/253940257_419768)
+-   ["The Lancet" surveyed 130,000 people in 21 countries: 1 catty of milk or yogurt a day reduces the risk of cardiovascular death by 23%](https://www.sohu.com/a/253940257_419768)
 -   Source：[Association of dairy intake with cardiovascular disease and mortality in 21 countries from 5 continents (PURE): a prospective cohort study](http://mdrf-eprints.in/1114/1/Association_of_dietary_patterns_and_dietary_diversity_with_cardiometabolic_disease_risk_factors.pdf)
 -   People who consumed two daily servings of dairy (one serving was 244 grams of milk / yogurt, 15 grams of cheese, or 5 grams of butter) had a **17% ****lower risk of ****all-cause death **, cardiovascular death, compared to those who didn't eat dairy 23% lower risk, 33% lower risk of stroke
 
